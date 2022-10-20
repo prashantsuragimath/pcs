@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pkcsmath
+ *
+ */
+module myproject {
+}
